@@ -8,7 +8,7 @@ https://github.com/facebookresearch/fastText
 
 > fastText is a library for efficient learning of word representations and sentence classification.
 
-![](image\fasttext.png)
+![](image/fasttext.png)
 
 
 
@@ -18,7 +18,7 @@ https://github.com/luanfujun/deep-photo-styletransfer
 
 > It can transform the original image into the specified style, and the generated image is very close to the real photo.
 
-![](image\Deep-photo-styletransfer.png)
+![](image/Deep-photo-styletransfer.png)
 
 
 
@@ -28,7 +28,7 @@ https://github.com/lengstrom/fast-style-transfer
 
 > The project is based on TesnorFlow, which can quickly transform the style of any image.
 
-![](image\stata.jpg)
+![](image/stata.jpg)
 
 
 
@@ -38,7 +38,7 @@ https://github.com/ageitgey/face_recognition
 
 > "The simplest face recognition API in the world"
 
-![](image\Face_recognition.png)
+![](image/Face_recognition.png)
 
 
 
@@ -48,7 +48,7 @@ https://github.com/tensorflow/magenta
 
 > Magenta is a research project exploring the role of machine learning in the process of creating art and music. 
 
-![](image\magenta.png)
+![](image/magenta.png)
 
 
 
@@ -58,7 +58,7 @@ https://github.com/deepmind/sonnet
 
 > Magenta is a research project exploring the role of machine learning in the process of creating art and music. 
 
-![](image\sonnet_logo.png)
+![](image/sonnet_logo.png)
 
 
 
@@ -68,7 +68,7 @@ https://github.com/lllyasviel/style2paints
 
 > Style2paints V4 is the current best AI driven lineart colorization tool.
 
-![](image\style2paints.jpg)
+![](image/style2paints.jpg)
 
 
 
@@ -78,7 +78,7 @@ https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 > This project is Cycle GAN of PyTorch edition. CycleGAN uses confrontational generation network to realize image-to-image conversion.
 
-![](image\pix2pix.jpg)
+![](image/pix2pix.jpg)
 
 
 
@@ -88,7 +88,7 @@ https://github.com/zalandoresearch/fashion-mnist
 
 > Fashion-MNIST is a class MNIST data set. It contains not a picture of handwritten numbers, but a group of fashionable pictures.
 
-![](image\fashion-mnist.png)
+![](image/fashion-mnist.png)
 
 
 
@@ -98,7 +98,7 @@ https://github.com/junyanz/iGAN
 
 > IGAN can generate images of comparable photos in real time according to user's description. It can also be used as a visual debugging tool to help understand and debug depth generation models.
 
-![](image\igan.jpg)
+![](image/igan.jpg)
 
 
 
@@ -108,7 +108,7 @@ https://github.com/DmitryUlyanov/deep-image-prior
 
 > Deep convolution network is used to implement some common image inverse operations, such as denoising, improving resolution, image restoration, etc.
 
-![](image\deep-image.jpg)
+![](image/deep-image.jpg)
 
 
 
@@ -118,7 +118,7 @@ https://github.com/oarriaga/face_classification
 
 > This is a real-time face detection model, and it can also classify faces and sexes.
 
-![](image\face_classification.png)
+![](image/face_classification.png)
 
 
 
@@ -128,7 +128,7 @@ https://github.com/yunjey/StarGAN
 
 > StarGAN can flexibly translate an input image to any desired target domain using only a single generator and a discriminator. 
 
-![](image\starGAN.jpg)
+![](image/starGAN.jpg)
 
 
 
@@ -138,7 +138,7 @@ https://github.com/NVIDIA/pix2pixHD
 
 > Pytorch implementation of our method for high-resolution photorealistic image-to-image translation. 
 
-![](image\pix2pixHD.gif)
+![](image/pix2pixHD.gif)
 
 
 
@@ -148,7 +148,7 @@ https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
 
 > Deep Video Analytics is a platform for indexing and extracting information from videos and images. 
 
-![](image\deepvideoanalysis.png)
+![](image/deepvideoanalysis.png)
 
 
 
@@ -158,7 +158,7 @@ https://github.com/andabi/deep-voice-conversion
 
 > Using deep neural network to change the style of voice
 
-![](image\deep-voice.png)
+![](image/deep-voice.png)
 
 
 
@@ -168,7 +168,7 @@ https://github.com/Microsoft/AirSim
 
 > AirSim is a simulator for drones, cars and more, built on Unreal Engine.
 
-![](image\AirSimDroneManual.gif)
+![](image/AirSimDroneManual.gif)
 
 
 
@@ -178,7 +178,7 @@ https://github.com/PAIR-code/facets
 
 > The facets project contains two visualizations for understanding and analyzing machine learning datasets
 
-![](image\dive-census.png)
+![](image/dive-census.png)
 
 
 
