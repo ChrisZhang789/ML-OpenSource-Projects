@@ -182,7 +182,7 @@ https://github.com/PAIR-code/facets
 
 
 
-### Tanks
+### Thanks
 
 The above pictures are from open source projects.
 
